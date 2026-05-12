@@ -3,15 +3,15 @@
 ![img](./docs/assets/logo_400x400-wac.png)
 
 ## Shadowrocket 官网导航
-- [Shadowrocket  下载安装](./docs/shadowrocket_download.md)
+- [Shadowrocket  下载安装](./shadowrocket_download.md)
 
-- [Shadowrocket  官网地址](./docs/shadowrocket_website.md)
+- [Shadowrocket  官网地址](./shadowrocket_website.md)
 
-- [Shadowrocket  更新历史](./docs/shadowrocket_history.md)
+- [Shadowrocket  更新历史](./shadowrocket_history.md)
 
-- [Shadowrocket  新手教程](./docs/shadowrocket_tutorial.md)
+- [Shadowrocket  新手教程](./shadowrocket_tutorial.md)
 
-- [Shadowrocket  使用手册](./docs/shadowrocket_manual.md)
+- [Shadowrocket  使用手册](./shadowrocket_manual.md)
 
   
 
