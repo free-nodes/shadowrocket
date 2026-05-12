@@ -1,6 +1,6 @@
 ## [Shadowrocket](https://free-nodes.github.io/shadowrocket/) 官网
 
-![img](./docs/assets/logo_400x400-wac.png)
+![img](./assets/logo_400x400-wac.png)
 
 ## Shadowrocket 官网导航
 - [Shadowrocket  下载安装](./shadowrocket_download.md)
