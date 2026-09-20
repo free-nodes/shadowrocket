@@ -13,8 +13,6 @@
 
 - [Shadowrocket  使用手册](./docs/shadowrocket_manual.md)
 
-  
-
 ## Shadowrocket 服务器节点
 
 Shadowrocket 跟其它任何科学上网客户端一样都需要添加海外服务器节点才能使用，请先准备好机场或云服务器/VPS先安装配置好V2Ray/Trojan/SSR/Shadowsocks等服务端。
@@ -31,3 +29,7 @@ Shadowrocket 跟其它任何科学上网客户端一样都需要添加海外服�
 
 - 【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】 免费观看netflix、disney+、primevideo、hbomax 九折优惠码：LxwSsaay
 - 【 [星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】 150G/9元/月 解锁流媒体及ChatGPT等AI 九折优惠码：3UJuVnqS
+  
+## Shadowrocket 共享账号
+
+- 👉 点击前往获取：[Shadowrocket 共享账号]([https://clashgithub.com/](https://freeid.tools12345.com/)) 
