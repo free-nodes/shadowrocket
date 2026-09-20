@@ -32,6 +32,6 @@ Shadowrocket 跟其它任何科学上网客户端一样都需要添加海外服�
   
 ## Shadowrocket 共享账号
 
-- 👉 点击前往获取：[Shadowrocket 共享账号](https://freeid.tools12345.com/)
+- 👉 点击前往获取：[Shadowrocket 共享账号](https://shareid.tools12345.com/)
 
 所有账号来源于其他网络，新手请按教程登录！
